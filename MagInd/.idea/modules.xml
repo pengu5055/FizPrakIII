@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Astronomija I/1DN/.idea/1DN.iml" filepath="$PROJECT_DIR$/../../Astronomija I/1DN/.idea/1DN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Astronomija I/2DN/.idea/2DN.iml" filepath="$PROJECT_DIR$/../../Astronomija I/2DN/.idea/2DN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AkRes/.idea/AkRes.iml" filepath="$PROJECT_DIR$/../AkRes/.idea/AkRes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GamaBeta/.idea/GamaBeta.iml" filepath="$PROJECT_DIR$/../GamaBeta/.idea/GamaBeta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MagInd.iml" filepath="$PROJECT_DIR$/.idea/MagInd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MichInt/.idea/MichInt.iml" filepath="$PROJECT_DIR$/../MichInt/.idea/MichInt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Piezo/.idea/Piezo.iml" filepath="$PROJECT_DIR$/../Piezo/.idea/Piezo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../STD/.idea/STD.iml" filepath="$PROJECT_DIR$/../../STD/.idea/STD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SiDiod/.idea/SiDiod.iml" filepath="$PROJECT_DIR$/../SiDiod/.idea/SiDiod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TrLin/.idea/TrLin.iml" filepath="$PROJECT_DIR$/../TrLin/.idea/TrLin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../UklLec/.idea/UklLec.iml" filepath="$PROJECT_DIR$/../UklLec/.idea/UklLec.iml" />
+    </modules>
+  </component>
+</project>
